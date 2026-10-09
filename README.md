@@ -40,7 +40,7 @@ and store performance.
 
 **Tools:** Excel, Power BI, Power Query, DAX
 
-[View Project](REPLACE_WITH_RETAIL_PROJECT_URL)
+[View Project](https://github.com/shushan-vardanyan/Retail-Sales-Analysis-Power-BI)
 
 ---
 
@@ -57,7 +57,7 @@ and social indicators across 2020–2024.
 
 **Tools:** Excel, Power BI, DAX
 
-[View Project](REPLACE_WITH_WORLD_BANK_PROJECT_URL)
+[View Project](https://github.com/shushan-vardanyan/world-bank-development-dashboard)
 
 ---
 
